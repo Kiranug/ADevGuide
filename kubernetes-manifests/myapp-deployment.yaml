@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: my-container
-        image: starappimage.azurecr.io/kiranugmavenproject:393
+        image: starappimage.azurecr.io/kiranugmavenproject:395
         imagePullPolicy: Always
         ports:
         - containerPort: 80
